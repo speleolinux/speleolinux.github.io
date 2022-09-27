@@ -4,9 +4,15 @@ description: Mikes personal pages.
 # Using a supported theme.
 #theme: jekyll-theme-cayman
 
-# Using another Jekyll theme hosted on GitHub.
-remote_theme: pages-themes/minimal@v0.2.0
-plugins:
-- jekyll-remote-theme
+# Using Jekyll themes hosted on GitHub.
+#
+# For "minimal" set plugins: jekyll-remote-theme
+#remote_theme: pages-themes/minimal@v0.2.0
 
-show_downloads: false
+remote_theme: rundocs/jekyll-rtd-theme
+
+#plugins:
+  #- jekyll-remote-theme
+
+# For minimal theme
+#show_downloads: false
