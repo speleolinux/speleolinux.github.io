@@ -2,14 +2,13 @@ title: Mikes Pages
 description: Mikes personal pages.
 
 # Using a supported theme.
-#theme: jekyll-theme-cayman
+theme: jekyll-theme-cayman
 
 # Using Jekyll themes hosted on GitHub.
 #
 # For "minimal" set plugins: jekyll-remote-theme
 #remote_theme: pages-themes/minimal@v0.2.0
-
-remote_theme: rundocs/jekyll-rtd-theme
+#remote_theme: rundocs/jekyll-rtd-theme
 
 #plugins:
   #- jekyll-remote-theme
