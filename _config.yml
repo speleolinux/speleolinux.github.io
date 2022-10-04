@@ -4,7 +4,8 @@ description: Mikes personal pages.
 baseurl: ""
 
 # Using a supported theme.
-theme: jekyll-theme-cayman
+#theme: jekyll-theme-cayman
+theme: minima 
 
 # Using Jekyll themes hosted on GitHub.
 # For "minimal" set plugins: jekyll-remote-theme
