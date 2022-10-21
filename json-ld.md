@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Including JSON-LD
-permalink: /about/
+permalink: /json/
 ---
 
 # Including JSON-LD
