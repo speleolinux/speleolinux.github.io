@@ -4,8 +4,13 @@ title: Including JSON-LD
 permalink: /json/
 ---
 
-# Including JSON-LD
+## Intro
 
 This is how to include some JSON-LD data and display it.
+
+## Parsing
+
+Parsing
+
 
 
