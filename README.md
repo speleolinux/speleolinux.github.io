@@ -1,4 +1,7 @@
-# Welcome
+---
+layout: page
+title: Welcome
+---
 
 This is Mike's Github Pages site <https://speleolinux.github.io/> 
 It's mostly used as just a test site for some Jekyl themes.
