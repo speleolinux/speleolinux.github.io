@@ -1,7 +1,10 @@
 title: Mikes Pages
 description: Mikes personal pages.
+author:
+  name: Mike Lake
+  email: mikel@speleonics.com.au
 
-baseurl: "/"
+baseurl: ""
 github_username: speleolinux
 
 # Using a supported theme.
@@ -9,7 +12,10 @@ github_username: speleolinux
 theme: minima
 
 minima:
+  skin: classic
   date_format: "%Y-%m-%d"
+  social_links:
+    - { platform: github,  user_url: "https://speleolinux.github.io" }
 
 # Using Jekyll themes hosted on GitHub.
 # For "minimal" set plugins: jekyll-remote-theme
