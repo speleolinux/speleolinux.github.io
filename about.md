@@ -4,5 +4,5 @@ title: About
 permalink: /about/
 ---
 
-About this site is yet to be written.
+Nothing much here.
 

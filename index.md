@@ -13,6 +13,5 @@ I also have repos at Sourcehut <https://speleolinux.srht.site/>.
 
 MikeL@speleonics.com.au
 
-Last updated: { %- page.last_modified_at | date: date_format -% }` OR
-{{ "now" | date: "%Y-%m-%d %H:%M" }}
+This page was last updated on {{ "now" | date: "%A %d %B, %Y at %H:%M %p" }}
 

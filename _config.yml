@@ -1,8 +1,8 @@
 title: Mikes Pages
 description: Mikes personal pages.
-author:
-  name: Mike Lake
-  email: mikel@speleonics.com.au
+#author:
+#  name: Mike Lake
+#  email: mikel@speleonics.com.au
 
 baseurl: ""
 github_username: speleolinux
