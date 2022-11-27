@@ -1,11 +1,15 @@
 title: Mikes Pages
 description: Mikes personal pages.
 
-baseurl: ""
+baseurl: "/"
+github_username: speleolinux
 
 # Using a supported theme.
 #theme: jekyll-theme-cayman
 theme: minima
+
+minima:
+  date_format: "%Y-%m-%d"
 
 # Using Jekyll themes hosted on GitHub.
 # For "minimal" set plugins: jekyll-remote-theme
@@ -18,3 +22,4 @@ theme: minima
 
 # For minimal theme
 #show_downloads: false
+
