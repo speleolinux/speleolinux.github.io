@@ -13,6 +13,6 @@ I also have repos at Sourcehut <https://speleolinux.srht.site/>.
 
 MikeL@speleonics.com.au
 
-Last updated: `{%- page.last_modified_at | date: date_format -%}` OR
+Last updated: { %- page.last_modified_at | date: date_format -% }` OR
 {{ "now" | date: "%Y-%m-%d %H:%M" }}
 
