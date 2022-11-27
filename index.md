@@ -13,5 +13,5 @@ I also have repos at Sourcehut <https://speleolinux.srht.site/>.
 
 MikeL@speleonics.com.au
 
-This page was last updated on {{ "now" | date: "%A %d %B, %Y at %H:%M %p" }}
+This page was last updated on {{ "now" | date: "%A %d %B, %Y" }}
 
